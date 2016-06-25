@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+  <link rel="stylesheet" href="style.css">
+
+  <title>Welcome Home</title>
+</head>
+<body>
+<div class="container contenedor">
+  <div class="col-md-12">
+    <h1>Welcome Home</h1>
+     <p> This is your learning mission control, providing you with an overview of your current progress and total points eamed at Treehose.</p>
+     </div>
+      <div class="col-md-6 parrafo" >
+      <h2>You're currently On Track</h2>
+      <p> The Front-end Web Development Track was designed by Andrew to guide your learning experience at Treehouse. Get started building interactive websites using Javascript and jQuery.</p>
+       <button type="button" class="btn btn-success verde">Resume Track</button>
+
+     </div>
+     <div class="col-md-6 parrafo">
+
+      <h2>Using Home</h2>
+      <p> Here you can get asnapshot view of your curent Track. keep tabs on other active projects, get your points breakdown and recommendations for what to leam next.</p>
+       <button type="button" class="btn btn-primary azul">Start Tour</button>
+      </div>
+</div>
+
+
+ <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+</body>
+
+</html>
